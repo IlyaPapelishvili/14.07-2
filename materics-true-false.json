@@ -6,8 +6,7 @@
 					"name": "Europe",
 					"countres": [
 						{
-							"name": "Belarus",
-							"eeee": "Belffffarus",
+							
 							"capital": "Minsk",
 							"population": "9.5 million",
 							"bool": false
